@@ -9,8 +9,8 @@ The project involves developing an **RF Receiver Front-End** that includes:
 🔍 I’m interested in:
 - Analog and Mixed-Signal Circuit Design  
 - Communication Systems and Logic-Level Hardware Design
+- Physical Design
 
-📘 I like working on real hardware-level circuits — designing, simulating, and testing systems without relying on microcontrollers when not needed.
 
 📫 **Contact**  
 You can reach me at: *skarmakaruiu@gmail.com*
