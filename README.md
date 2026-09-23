@@ -1,15 +1,50 @@
-## Hi, I’m **Suvom Karmakar** (`@suvom027`)
+# Hi, I'm **Suvom Karmakar**
 
-🎓 I have recently completed my B.Sc. in Electrical and Electronic Engineering (EEE) from United International University (UIU).
+**B.Sc. in Electrical & Electronic Engineering | United International University (UIU)**
 
-🛠️My Capstone Project focuses on Analog Integrated Circuit Design, where the objective is to design and analyze an RF Receiver Front-End operating in the 2.45 GHz ISM band.  
-The project involves developing an **RF Receiver Front-End** that includes:
-- **Bandpass Filter**, **Low Noise Amplifier (LNA)**, **Mixer**, **Low Pass Amplifier**
+I am interested in **analog and mixed-signal integrated circuits, RF circuit design, VLSI, and semiconductor devices**, with particular interest in advanced transistor technologies and nanoscale circuits.
 
-🔍 I’m interested in:
-- Analog and Mixed-Signal Circuit Design  
-- RF and Communication Circuits
-- Physical Design and Layout
+## Research & Project Work
 
-📫 **Contact**  
-You can reach me at: *skarmakaruiu@gmail.com*
+### 2.45 GHz RF Receiver — 45 nm CMOS
+
+My undergraduate capstone project focused on the **design and performance analysis of a 2.45 GHz RF receiver** using **45 nm CMOS technology** in **Cadence Virtuoso**.
+
+**Architecture**
+
+* Active-Inductor/Gyrator Bandpass Filter
+* Cascode Low-Noise Amplifier (LNA)
+* Double-Balanced Gilbert-Cell Mixer
+* Second-Order Gm-C Low-Pass Filter
+
+**Focus:** Analog/RF circuit design · Circuit simulation · Performance analysis
+
+## Research Interests
+
+* Analog & Mixed-Signal Integrated Circuits
+* RF & Wireless Transceiver Circuits
+* VLSI & Custom IC Design
+* Semiconductor Devices & Microelectronics
+* Advanced Transistor Technologies
+* Nanoscale Integrated Circuits
+
+## Selected Work
+
+* **Analog Integrated Circuit Design**
+* **RF Receiver Design**
+* **VLSI Schematic & Layout Design**
+* **RTL-to-Physical Design**
+* **DRC/LVS Verification**
+* **Circuit Simulation & Analysis**
+
+## Publication
+
+**S. Hossen, S. Karmakar, T. Hossain, A. H. Saykat, R. Mostafa, and M. Hasanuzzaman**
+
+*Design and Performance Analysis of a 2.45 GHz Low-Power RF Receiver Using 45nm CMOS Technology in Cadence Virtuoso*
+
+**IEEE MARSCON 2026** · Presented at the conference; to appear in IEEE Xplore.
+
+## Contact
+
+**Email:** [skarmakaruiu@gmail.com](mailto:skarmakaruiu@gmail.com)
