@@ -6,7 +6,7 @@ I am interested in **analog and mixed-signal integrated circuits, RF circuit des
 
 ## Research & Project Work
 
-### 2.45 GHz RF Receiver — 45 nm CMOS
+### 2.45 GHz RF Receiver - 45 nm CMOS
 
 My undergraduate capstone project focused on the **design and performance analysis of a 2.45 GHz RF receiver** using **45 nm CMOS technology** in **Cadence Virtuoso**.
 
